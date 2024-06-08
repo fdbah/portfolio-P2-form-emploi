@@ -244,6 +244,9 @@ input {
     border: 1px black solid ;
     margin: 10px;
 }
+input :hover{
+    outline:black 3px solid;
+}
 .btn-submit{
     width: 100%;
     background-color: black;
